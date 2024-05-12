@@ -3,6 +3,7 @@ BrowserPy is a Web Browser made in Python with PyQt5 and ConfigParser.
 
 # How to start
 If you are a windows user, start the "browser.cmd" file
+
 If you are a linux or something user:
 
 1. Open the Terminal on project folder
