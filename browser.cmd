@@ -1,5 +1,5 @@
 @echo off
-set "checkfile=browser.py"
+set "checkfile=__init__.py"
 set "lib1=PyQt5"
 set "lib2=configparser"
 
